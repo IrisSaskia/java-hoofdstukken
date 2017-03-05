@@ -33,7 +33,12 @@ public class H1110Praktijkopdracht extends Applet {
     public void paint(Graphics g) {
         g.drawString("De tafel van " + cijfer + ":", 110, 50);
         for(int j = 0; j < 10; j++) {
-            g.drawString((j + 1) + " * " + cijfer + " = " + uitkomsten[j], 110, 75 + j * 20);
+            if((j + 1) < 10) {
+                g.drawString("  " + (j + 1) + " * " + cijfer + " = " + uitkomsten[j], 110, 75 + j * 20);
+            }
+            else {
+                g.drawString((j + 1) + " * " + cijfer + " = " + uitkomsten[j], 110, 75 + j * 20);
+            }
         }
     }
 
