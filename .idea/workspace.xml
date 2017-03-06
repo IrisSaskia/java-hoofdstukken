@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfb433f0-3160-4910-a8e4-1fee4cc9beb2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Javaaa/H12/H127Praktijkopdracht.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/H12/H127Praktijkopdracht.java" afterPath="$PROJECT_DIR$/src/H12/H127Praktijkopdracht.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +25,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="H1110Praktijkopdracht.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/H11/H1110Praktijkopdracht.java">
+      <file leaf-file-name="H1110bPraktijkopdracht.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/H11/H1110bPraktijkopdracht.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="39" column="81" lean-forward="false" selection-start-line="39" selection-start-column="81" selection-end-line="39" selection-end-column="81" />
+            <state relative-caret-position="561">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,11 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="H1110bPraktijkopdracht.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/H11/H1110bPraktijkopdracht.java">
+      <file leaf-file-name="H127Praktijkopdracht.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/H12/H127Praktijkopdracht.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
-              <caret line="37" column="79" lean-forward="true" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
+              <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H1110Praktijkopdracht.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/H11/H1110Praktijkopdracht.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="39" column="81" lean-forward="false" selection-start-line="39" selection-start-column="81" selection-end-line="39" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/H10/H106Praktijkopdracht.java" />
         <option value="$PROJECT_DIR$/src/H11/H1110Praktijkopdracht.java" />
         <option value="$PROJECT_DIR$/src/H11/H1110bPraktijkopdracht.java" />
+        <option value="$PROJECT_DIR$/src/H12/H127Praktijkopdracht.java" />
       </list>
     </option>
   </component>
@@ -96,7 +110,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -320,16 +334,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Applet.H1110bPraktijkopdracht">
-    <configuration default="false" name="H84Praktijkopdracht" type="Applet" factoryName="Applet" temporary="true">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="H08.H84Praktijkopdracht" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="Javaaa" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Applet.H127Praktijkopdracht">
     <configuration default="false" name="H85UitbreidingStaafd..." type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="H08.H85UitbreidingStaafdiagram" />
@@ -360,6 +365,15 @@
     <configuration default="false" name="H1110bPraktijkopdracht" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="H11.H1110bPraktijkopdracht" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module name="Javaaa" />
+      <method />
+    </configuration>
+    <configuration default="false" name="H127Praktijkopdracht" type="Applet" factoryName="Applet" temporary="true">
+      <option name="HTML_USED" value="false" />
+      <option name="MAIN_CLASS_NAME" value="H12.H127Praktijkopdracht" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -797,19 +811,19 @@
       <item index="2" class="java.lang.String" itemvalue="Applet.Pizza" />
       <item index="3" class="java.lang.String" itemvalue="Applet.Stoplicht" />
       <item index="4" class="java.lang.String" itemvalue="Applet.H52Gewichten" />
-      <item index="5" class="java.lang.String" itemvalue="Applet.H84Praktijkopdracht" />
-      <item index="6" class="java.lang.String" itemvalue="Applet.H85UitbreidingStaafd..." />
-      <item index="7" class="java.lang.String" itemvalue="Applet.H106Praktijkopdracht" />
-      <item index="8" class="java.lang.String" itemvalue="Applet.H1110Praktijkopdracht" />
-      <item index="9" class="java.lang.String" itemvalue="Applet.H1110bPraktijkopdracht" />
+      <item index="5" class="java.lang.String" itemvalue="Applet.H85UitbreidingStaafd..." />
+      <item index="6" class="java.lang.String" itemvalue="Applet.H106Praktijkopdracht" />
+      <item index="7" class="java.lang.String" itemvalue="Applet.H1110Praktijkopdracht" />
+      <item index="8" class="java.lang.String" itemvalue="Applet.H1110bPraktijkopdracht" />
+      <item index="9" class="java.lang.String" itemvalue="Applet.H127Praktijkopdracht" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.H1110bPraktijkopdracht" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.H1110Praktijkopdracht" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.H106Praktijkopdracht" />
-        <item index="3" class="java.lang.String" itemvalue="Applet.H85UitbreidingStaafd..." />
-        <item index="4" class="java.lang.String" itemvalue="Applet.H84Praktijkopdracht" />
+        <item index="0" class="java.lang.String" itemvalue="Applet.H127Praktijkopdracht" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.H1110bPraktijkopdracht" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.H1110Praktijkopdracht" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.H106Praktijkopdracht" />
+        <item index="4" class="java.lang.String" itemvalue="Applet.H85UitbreidingStaafd..." />
       </list>
     </recent_temporary>
   </component>
@@ -829,7 +843,7 @@
       <workItem from="1486562099198" duration="10402000" />
       <workItem from="1486915489028" duration="18696000" />
       <workItem from="1488529430351" duration="8072000" />
-      <workItem from="1488574421984" duration="6994000" />
+      <workItem from="1488574421984" duration="9058000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1488574458706</created>
@@ -859,14 +873,21 @@
       <option name="project" value="LOCAL" />
       <updated>1488742880580</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hoofdstuk 11 af">
+      <created>1488742967959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1488742967959</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61101000" />
+    <option name="totallyTimeSpent" value="63165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
+    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1148,13 +1169,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/H12/H127Praktijkopdracht.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/H13/H135Praktijkopdracht.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1243,9 +1257,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H1110bPraktijkopdracht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/H11/H1110Praktijkopdracht.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
+        <state relative-caret-position="250">
           <caret line="39" column="81" lean-forward="false" selection-start-line="39" selection-start-column="81" selection-end-line="39" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1253,10 +1277,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/H11/H1110bPraktijkopdracht.java">
+    <entry file="file://$PROJECT_DIR$/src/H12/H127Praktijkopdracht.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
-          <caret line="37" column="79" lean-forward="true" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
+          <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
